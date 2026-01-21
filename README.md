@@ -1,7 +1,8 @@
 # PlotMath-TIPE-
 
 Project made during the TIPE sessions of MP2I / MPI\*
-See TIPE_slides(french).pdf for the slides (for oral presentation of the TIPE)
+
+See TIPE_slides(french).pdf for the slides (for oral presentation of the TIPE).
 
 ## Requirements
 glew-2.1.0 and glfw-3.4 are necesarry.
